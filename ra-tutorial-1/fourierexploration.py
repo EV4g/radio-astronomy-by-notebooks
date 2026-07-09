@@ -418,6 +418,7 @@ class FourierExplorerGui:
         self.axes = self.fig.subplots(2, 2)
         self.fig.subplots_adjust(hspace=0, wspace=0)
         self.imshow_artists = ((None, None), (None, None))
+        plt.show()
 
 
     def replot(self, img_scale, uv_scale, img_fn,
