@@ -10,4 +10,5 @@ TempLattice*
 *.pb
 *.residual
 *.bzr
+*.mp4
 .ipynb_checkpoints
