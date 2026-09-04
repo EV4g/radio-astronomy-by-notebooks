@@ -2,7 +2,7 @@
 
 To set everything up run:
 ```bash
-git clone https://github.com/EV4g/radio-astronomy-by-notebooks/
+git clone https://github.com/brentjens/radio-astronomy-by-notebooks/
 ```
 Do ensure `git-lfs` is installed to fetch the larger files (`sudo apt install git-lfs` on ubuntu-base systems).
 
